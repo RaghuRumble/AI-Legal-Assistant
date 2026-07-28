@@ -1,4 +1,4 @@
-# AI Legal Assistant for Indian Case Law
+# AI Legal Assistant for Indian Case Law — Semantic Legal Retrieval System
 
 An end-to-end AI system for analyzing, retrieving, and interpreting Indian Supreme Court judgments using transformer-based models, semantic search, and rhetorical role-aware retrieval.
 
@@ -55,14 +55,22 @@ Each result is linked with reasoning extracted from the source case text.
 ---
 
 ## System Pipeline
+
+```text
 User Query
-Query intent detection
-Role-specific index selection
-Bi-encoder retrieval
-Cross-encoder reranking
-Answer generation
-Decision support
-Explainable results returned
+    ↓
+Intent Detection
+    ↓
+Role-specific Retrieval
+    ↓
+Bi-encoder Search
+    ↓
+Cross-encoder Reranking
+    ↓
+Answer Generation
+    ↓
+Decision Support
+```
 
 ---
 
@@ -195,9 +203,10 @@ SemEval Rhetorical Role Labeling
 
 ## Contributors
 
-Vishwass Khattarr
-Sayyam Wad
-RaghuRumble
-Saanvi09
+- Yash Raghuvanshi
+- Saanvi Wadhwa
+- Vishwass Khattar
+- Sayyam Wadhwa
+
 
 
