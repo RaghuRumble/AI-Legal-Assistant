@@ -205,7 +205,7 @@ SemEval Rhetorical Role Labeling
 
 - Yash Raghuvanshi
 - Saanvi Wadhwa
-- Vishwass Khattar
+- Vishwas Khattar
 - Sayyam Wadhwa
 
 
