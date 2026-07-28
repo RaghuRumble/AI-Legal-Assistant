@@ -98,8 +98,8 @@ legal_ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/VishwassKhattarr/legal_ai.git
-cd legal_ai
+git clone https://github.com/RaghuRumble/AI-Legal-Assistant.git
+cd AI-Legal-Assistant
 ```
 
 ### 2. Create environment
